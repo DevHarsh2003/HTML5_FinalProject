@@ -1,7 +1,7 @@
 # HTML5_FinalProject
 Coursera HTML5 Final Project-->
 
-This Is The Code That I Have Written To Get Qualified In The Final Project Examination For The Course "Introduction To HTML5" By University Of Michigan Through Coursera.
+This Is The Code That I Have Written To Get Qualify In The Final Project Examination For The Course "Introduction To HTML5" By University Of Michigan Through Coursera.
 
 Attachments:
 
